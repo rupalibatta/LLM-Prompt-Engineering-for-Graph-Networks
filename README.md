@@ -1,5 +1,5 @@
 # LLM-Prompt-Engineering-for-Graph-Networks
-CS 159 Project - Exploring Encoding and Prompting Methods for Graph Reasoning in Large Language Models.
+CS 159 Final. Exploring encoding and prompting methods for graph reasoning in LLMs.
 This is a snippet from the report, which is included in this repository.
 
 # 1 Summary
